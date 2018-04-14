@@ -1,0 +1,11 @@
+{
+  "name": "first-error",
+  "version": "1.0.0",
+  "description": "report first error when chain async function calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandros Monastiriotis <alex.monastiriotis@gmail.com>",
+  "license": "ISC"
+}
